@@ -1,3 +1,4 @@
+# Check remote computer services
 # Define the remote computer and the service name
 # please change the service name before running to the service you want on the remote machine
 $RemoteComputer = "omenserver"
